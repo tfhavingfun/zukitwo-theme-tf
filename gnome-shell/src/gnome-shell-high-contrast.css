@@ -504,7 +504,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .media-message-cover-icon.fallback { color: #1a1919; background-color: #000; border: 2px solid #000; border-radius: 2px; icon-size: 32px !important; padding: 6px; }
 
-#panel #panelActivities.panel-button > * { background-image: url("activities.svg"); background-position: center center; width: 39px; height: 24px; background-color: transparent !important; background-gradient-direction: none !important; border: 0 solid transparent !important; text-shadow: 0 0 transparent !important; transition-duration: 100ms !important; box-shadow: none !important; color: transparent; }
+#panel #panelActivities.panel-button > * { background-image: url("activities.svg"); background-position: center center; width: 24px; height: 24px; background-color: transparent !important; background-gradient-direction: none !important; border: 0 solid transparent !important; text-shadow: 0 0 transparent !important; transition-duration: 100ms !important; box-shadow: none !important; color: transparent; }
 
 #panel #panelActivities.panel-button:active, #panel #panelActivities.panel-button:overview, #panel #panelActivities.panel-button:focus, #panel #panelActivities.panel-button:checked { background-color: transparent; box-shadow: none; border-bottom-width: 1px; border-color: transparent; }
 
