@@ -804,7 +804,7 @@ StScrollBar {
     transition-duration: $short-duration;
 
     .app-menu-icon {
-      -st-icon-style: symbolic;
+      -st-icon-style: regular;//default is symbolic
       margin-left: 4px;
       margin-right: 4px;
       //dimensions of the icon are hardcoded
