@@ -354,7 +354,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 #panel .panel-button { -natural-hpadding: 12px; -minimum-hpadding: 6px; font-weight: bold; color: #f6f6f7; transition-duration: 100ms; }
 
-#panel .panel-button .app-menu-icon { -st-icon-style: symbolic; margin-left: 4px; margin-right: 4px; }
+#panel .panel-button .app-menu-icon { -st-icon-style: regular; margin-left: 4px; margin-right: 4px; }
 
 #panel .panel-button:hover { color: #f6f6f7; background-color: rgba(255, 255, 255, 0.1); }
 
